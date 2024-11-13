@@ -1,0 +1,12 @@
+{
+  "description": "Julia library of 'A Scalable Data Structure for Efficient Graph Analytics and In-Place Mutations'",
+  "status": "TODO",
+  "references": [
+    {
+      "title": "A Scalable Data Structure for Efficient Graph Analytics and In-Place Mutations",
+      "url": "https://www.mdpi.com/2306-5729/8/11/166",
+      "year": 2023
+    }
+  ],
+  "tags": ["Julia", "Utility Library", "Data Structure"]
+}
